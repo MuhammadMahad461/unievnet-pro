@@ -15,4 +15,4 @@ Cloud-based university event management system using AWS + GCP.
 ## Live URLs
 - App: http://unievnet-alb-271724539.eu-north-1.elb.amazonaws.com
 - Analytics API: http://34.170.116.86
-- Analytics API endpoints: `http://34.170.116.86/api/popular-events`, `http://34.170.116.86/api/stats`
+- Analytics API endpoints: http://34.170.116.86/api/popular-events, http://34.170.116.86/api/stats
