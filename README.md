@@ -13,9 +13,6 @@ Cloud-based university event management system using AWS + GCP.
 | Ammar Yasar (2023111) | Data & Analytics |
 
 ## Live URLs
-- App: http://[YOUR-ALB-DNS]
-- Analytics API: http://[YOUR-GKE-IP]
-- Analytics API endpoints: `/api/popular-events`, `/api/stats`
-
-## Setup
-See `/docs/setup-guide.md` for full deployment steps.
+- App: http://unievnet-alb-271724539.eu-north-1.elb.amazonaws.com
+- Analytics API: http://34.170.116.86
+- Analytics API endpoints: `http://34.170.116.86/api/popular-events`, `http://34.170.116.86/api/stats`
